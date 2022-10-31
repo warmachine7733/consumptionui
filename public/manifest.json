@@ -13,7 +13,8 @@
       "type": "image/png"
     }
   ],
-  "start_url": ".",
+  "start_url": "https://consumptionui.vercel.app/",
+  "scope":"https://consumptionui.vercel.app/",
   "background_color": "#222",
   "theme_color": "#222",
   "display": "standalone"
